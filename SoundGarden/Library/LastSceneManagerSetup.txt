@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Brian_950pm.unity
+- path: C:/Users/aleja/VR - Copy/VR-Sound-GardenSafe/SoundGardenS/Assets/Scenes/Brian_950pm.unity
   isLoaded: 1
   isActive: 1
